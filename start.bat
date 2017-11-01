@@ -1,0 +1,1 @@
+miner --server btg.minertopia.org --user Coryvmcs1.1 --pass x --port 5555
