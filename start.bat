@@ -1,1 +1,1 @@
-miner --server btg.minertopia.org --user Coryvmcs1.1 --pass x --port 5555
+miner --server pool.mining.sg --port 3032 --user znhGeka9zXmixvw6ufzGpcaSXcSACrjx5WZ.example --pass x
